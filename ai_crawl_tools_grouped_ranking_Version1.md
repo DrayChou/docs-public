@@ -1,4 +1,8 @@
-# Crawl & AI-Ready 工具项目分组与综合排行榜
+# Crawl & AI-Ready 工具项目分组与综合排行榜（持续更新，失效项目剔除）
+
+> 更新时间：2025-06
+
+---
 
 ## 1. 专为 LLM/AI-Ready 场景设计
 
@@ -8,8 +12,8 @@
 | 2 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | 46k+ | 4.4k+ | ⭐⭐⭐⭐ | 为AI设计，结构化强，社区好 | 知识库、embedding准备 |
 | 3 | [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) | 695+ | 51+ | ⭐⭐⭐⭐ | 简单易用，结构化好 | 知识库/AI-ready抓取 |
 | 4 | [any4ai/AnyCrawl](https://github.com/any4ai/AnyCrawl) | 85+ | 10+ | ⭐⭐⭐ | 现代化，批量处理，TS友好 | SERP结果、大批量抓取 |
-| 5 | [ReflexTools/reflex-crawler](https://github.com/ReflexTools/reflex-crawler) | 100+ | 15+ | ⭐⭐⭐⭐ | 新兴易用，结构化好 | 小团队、快速集成 |
-| 6 | [xtekky/gpt-crawler](https://github.com/xtekky/gpt-crawler) | 60+ | 10+ | ⭐⭐⭐ | 面向微调数据，适配主流AI框架 | 大模型微调/知识库 |
+| 5 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 13k+ | 2.7k+ | ⭐⭐⭐ | 支持网页抓取，AI问答生态 | AI知识库、问答系统 |
+| 6 | [openai/openai-cookbook (web_crawl)](https://github.com/openai/openai-cookbook/tree/main/examples/web_crawl) | 60k+ | 8.6k+ | ⭐⭐⭐⭐ | 官方代码示例，脚本简明 | 教学/小型抓取 |
 
 ---
 
@@ -44,7 +48,6 @@
 | 1 | [run-llama/llama-hub](https://github.com/run-llama/llama-hub) | 6.6k+ | 0.6k+ | ⭐⭐⭐⭐ | 集成度高，生态丰富 | LlamaIndex数据集成 |
 | 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 14k+ | 1.7k+ | ⭐⭐ | 工具链丰富，科研友好 | AI科研/自动化流程 |
 | 3 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 89k+ | 12k+ | ⭐⭐⭐⭐ | AI链路开发热门 | 数据链路、抓取集成 |
-| 4 | [haystack-ai/haystack](https://github.com/deepset-ai/haystack) | 13k+ | 2.7k+ | ⭐⭐⭐ | 支持多抓取模块，AI问答 | 知识库/问答开发 |
 
 ---
 
@@ -61,6 +64,14 @@
 ## 评分说明
 - 代码易用性：⭐⭐⭐⭐⭐ 极易用（零代码/API），⭐⭐⭐⭐ 易用（文档完善/封装好），⭐⭐⭐ 一般（需熟悉代码或配置），⭐⭐ 需开发者较多介入。
 - 用户评价结合 Star、Fork、社区活跃度、维护频率及实际用户反馈。
+
+---
+
+## 近期变动说明
+- 2025-06 检查：所有项目仓库均有效、可访问。
+- 新增：[openai/openai-cookbook (web_crawl)](https://github.com/openai/openai-cookbook/tree/main/examples/web_crawl) 作为官方脚本示例。
+- 剔除：已失效（404）或下架的 reflex-crawler、gpt-crawler 等项目。
+- 如有新工具/热门库出现，请持续关注并补充。
 
 ---
 
